@@ -1,0 +1,18 @@
+{
+    "ad6476aa-bbd8-4038-bab0-cccefd2e3f9f":
+    {
+        "id":"ad6476aa-bbd8-4038-bab0-cccefd2e3f9f",
+        "name":"Gshock",
+        "price":"400",
+        "quantity":"50",
+        "image":"image.png"
+    },
+    "642acb93-d5e1-48b7-91d4-212b90f51606":
+    {
+        "id":"642acb93-d5e1-48b7-91d4-212b90f51606",
+        "name":"Nicklace",
+        "price":"1,000",
+        "quantity":"100",
+        "image":"image.png"
+    }
+}
